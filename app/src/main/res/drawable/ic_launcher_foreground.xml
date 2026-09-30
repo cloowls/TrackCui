@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Glow Circle -->
+    <path
+        android:fillColor="#15FFFFFF"
+        android:pathData="M54,20 A34,34 0 1,0 54,88 A34,34 0 1,0 54,20 Z" />
+
+    <!-- Main Wallet Body (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,38 h40 c3.3,0 6,2.7 6,6 v22 c0,3.3 -2.7,6 -6,6 H32 c-3.3,0 -6,-2.7 -6,-6 V44 c0,-3.3 2.7,-6 6,-6 z" />
+
+    <!-- Wallet Clap (Dark Emerald Accent) -->
+    <path
+        android:fillColor="#065F46"
+        android:pathData="M62,49 h16 v12 h-16 c-3.3,0 -6,-2.7 -6,-6 v0 c0,-3.3 2.7,-6 6,-6 z" />
+
+    <!-- Wallet Lock Dot (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,55 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0" />
+
+    <!-- Growth Trend Arrow (Green Accent) -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M34,58 L44,48 L52,54 L64,42 L64,48 L68,48 L68,36 L56,36 L56,40 L61.2,40 L52,49.2 L44,43.2 L31.2,56 Z" />
+
+</vector>
